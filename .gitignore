@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.bak
+
+# Sensitive local data (real user data, portfolios, credentials)
+backend/data/*.json
